@@ -1,1 +1,1 @@
-print("Hello Students - GitHub Trigger 2")
+print("Hello Students - Automatic Trigger")
